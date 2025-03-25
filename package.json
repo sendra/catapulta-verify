@@ -11,9 +11,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "files": [
-    "out/index.mjs"
-  ],
+  "files": ["out/index.mjs"],
   "devDependencies": {
     "@bgd-labs/rpc-env": "^2.3.1",
     "@biomejs/biome": "1.9.4",
